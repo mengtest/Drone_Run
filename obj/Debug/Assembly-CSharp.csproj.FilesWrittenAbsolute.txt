@@ -1,0 +1,13 @@
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/UnityEngine.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/UnityEditor.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Mono.Cecil.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Unity.DataContract.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/miyawakiyusuke/Documents/Unity/DroneRun/Temp/bin/Debug/Mono.Cecil.Mdb.dll
